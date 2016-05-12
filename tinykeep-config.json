@@ -1,0 +1,11 @@
+{
+  "dungeon_width"    : 80,
+  "dungeon_height"   : 80,
+  "cells_expected"   : 40,
+  "cellsz_expected"  : 6,
+  "cellsz_deviation" : 1.0,
+  "reloc_attempts"   : 50,
+  "min_room_width"   : 6,
+  "min_room_height"  : 6,
+  "cycle_edge_prob"  : 0.1
+}
